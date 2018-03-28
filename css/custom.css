@@ -1,0 +1,89 @@
+/*! Place your custom styles here */
+
+.hs-form label {
+  visibility: hidden;
+}
+
+.applyPage .hs-form label {
+  font-size: 0.9em;
+  margin-top: 10px;
+  float: left;
+  visibility: visible;
+}
+
+/* .hs-form .hs-form-field > label {
+  font-size: 60px;
+  visibility: visible;
+} */
+
+.hs-form .hs-error-msgs label {
+  visibility: visible;
+  /* color: red; */
+}
+
+body .hs-button.primary, body input[type="submit"], body input[type="button"] {
+  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  margin-top: 29px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px;
+  background: #c6c6c6;
+}
+
+.imi-footer {
+  padding: 30px 5%;
+}
+
+p.footer {
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 8px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.applyPage .hs-form label .hs-form-required {
+  display: none;
+  font-size: 60px;
+}
+
+.applyPage .hs-form .hs-form-field {
+  margin-bottom: 12px;
+}
+
+div.hs_phone.hs-phone.hs-fieldtype-text.field.hs-form-field {
+  margin-bottom: 0px;
+}
+
+div.hs_resume_upload.hs-resume_upload.hs-fieldtype-file.field.hs-form-field {
+  margin-bottom: 0px;
+}
+
+#btn_description_page_middle {
+  border: 0;
+}
+
+#btn_description_page_bottom {
+  background: #c6c6c6;
+  border: 0;
+}
+
+#header_text {
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 380;
+  font-variant-ligatures: common-ligatures;
+}
+#content_text{
+  font-weight: 440;
+  /* margin: 0;
+padding: 0; */
+text-align: center;
+/* font-size: 1.35714286em;
+    line-height: 1.68421053em; */
+}
