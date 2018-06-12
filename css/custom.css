@@ -29,7 +29,7 @@ body .hs-button.primary, body input[type="submit"], body input[type="button"] {
   font-weight: bold;
   text-align: center;
   padding: 0px;
-  background: #c6c6c6;
+  /* background: #c6c6c6; */
 }
 
 .imi-footer {
@@ -70,7 +70,7 @@ div.hs_resume_upload.hs-resume_upload.hs-fieldtype-file.field.hs-form-field {
 }
 
 #btn_description_page_bottom {
-  background: #c6c6c6;
+  /* background: #c6c6c6; */
   border: 0;
 }
 
